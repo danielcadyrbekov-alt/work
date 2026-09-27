@@ -101,3 +101,4 @@ export const LAYER_DEFINITIONS = [
 Проект не использует `any`. Типы стора и dispatch выведены из самого пакета
 `vedro` (`Vedro<LayersStoreState>['dispatch']`), без ручного дублирования.
 # work
+# work
